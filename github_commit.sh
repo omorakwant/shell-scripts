@@ -1,4 +1,5 @@
 #!/bin/bash
 git add .
-git commit -m "$"
+read -p "commit desc" desc
+git commit -m $desc
 git push
