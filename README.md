@@ -1,4 +1,4 @@
-#scripts i use cause am lazy and i try to make my life easier 
+# scripts I use cause I am lazy and I try to make my life easier 
 
 setup command alias :
 -------------------------
